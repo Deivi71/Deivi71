@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deivi71
 - 👀 I’m interested in  Aprender      
-- 🌱 I’m currently learning  JAVA
+- 🌱 I’m currently learning  JAVA/ Go
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  rocha0rocha@gmail.com
 
